@@ -1,0 +1,14 @@
+D:\CSharp\MeuSuperBanco\MeuSuperBanco\bin\Debug\net6.0\MeuSuperBanco.exe
+D:\CSharp\MeuSuperBanco\MeuSuperBanco\bin\Debug\net6.0\MeuSuperBanco.deps.json
+D:\CSharp\MeuSuperBanco\MeuSuperBanco\bin\Debug\net6.0\MeuSuperBanco.runtimeconfig.json
+D:\CSharp\MeuSuperBanco\MeuSuperBanco\bin\Debug\net6.0\MeuSuperBanco.dll
+D:\CSharp\MeuSuperBanco\MeuSuperBanco\bin\Debug\net6.0\MeuSuperBanco.pdb
+D:\CSharp\MeuSuperBanco\MeuSuperBanco\obj\Debug\net6.0\MeuSuperBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\MeuSuperBanco\MeuSuperBanco\obj\Debug\net6.0\MeuSuperBanco.AssemblyInfoInputs.cache
+D:\CSharp\MeuSuperBanco\MeuSuperBanco\obj\Debug\net6.0\MeuSuperBanco.AssemblyInfo.cs
+D:\CSharp\MeuSuperBanco\MeuSuperBanco\obj\Debug\net6.0\MeuSuperBanco.csproj.CoreCompileInputs.cache
+D:\CSharp\MeuSuperBanco\MeuSuperBanco\obj\Debug\net6.0\MeuSuperBanco.dll
+D:\CSharp\MeuSuperBanco\MeuSuperBanco\obj\Debug\net6.0\refint\MeuSuperBanco.dll
+D:\CSharp\MeuSuperBanco\MeuSuperBanco\obj\Debug\net6.0\MeuSuperBanco.pdb
+D:\CSharp\MeuSuperBanco\MeuSuperBanco\obj\Debug\net6.0\MeuSuperBanco.genruntimeconfig.cache
+D:\CSharp\MeuSuperBanco\MeuSuperBanco\obj\Debug\net6.0\ref\MeuSuperBanco.dll
